@@ -11,7 +11,7 @@ An advanced web vulnerability scanner for Kali Linux that detects:
 
 ## Installation
 ```bash
-git clone https://github.com/আপনার_ইউজারনেম/VulnScanX.git
+git clone https://github.com/hydraboy01/VulnScanX.git
 cd VulnScanX
 chmod +x vulnscanx.py
 pip3 install -r requirements.txt
